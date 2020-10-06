@@ -1,2 +1,2 @@
 # Advanced-Numerical-Analysis-Notes
-notes for Advanced Numerical Analysis in Tsinghua University
+notes for Advanced Numerical Analysis course in Tsinghua University
