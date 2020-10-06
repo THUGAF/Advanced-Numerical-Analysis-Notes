@@ -36,5 +36,3 @@ $$\det(\lambda I-A)=\prod_{i=1}^n(\lambda-\lambda_i)^{n_i}$$
 * 几何重数：$m_i$为$\lambda_i$的特征向量张成线性空间的维数
 * 显然，几何重数$\leq$代数重数
 * 可对角化$\iff$几何重数=代数重数
-
-
